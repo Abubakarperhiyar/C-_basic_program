@@ -12,6 +12,6 @@ int main()
 	
 	cout<<"\'money is important\'"<<endl;//single quote.
 	
-	cout<<"\"work,work and work\"";//double quote.
+	cout<<"\"work,work and work\"";//double quote....
 	return 0;
 }
