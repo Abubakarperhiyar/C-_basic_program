@@ -8,7 +8,7 @@ int main()
 	
 	cout<<"abubakar zulfiqar\a"<<endl;//checking 
 	
-	cout<<"crimnology\\justify"<<endl;//backslash
+	cout<<"crimnology\\justify"<<endl;//backslash using for differ
 	
 	cout<<"\'money is important\'"<<endl;//single quote.
 	
